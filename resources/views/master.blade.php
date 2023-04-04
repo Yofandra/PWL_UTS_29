@@ -9,11 +9,11 @@
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
   <!-- Font Awesome Icons -->
-  <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="/plugins/fontawesome-free/css/all.min.css">
   <!-- IonIcons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap
   /4.4.1/css/bootstrap.min.css" integrity="sha384-
   Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="an
@@ -21,7 +21,7 @@
       <script src="https://code.jquery.com/jquery3.4.1.slim.min.js" integrity="sha384-
   J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="an
   onymous"></script>
-      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/poppe
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0//dist/umd/poppe
   r.min.js" integrity="sha384-
   Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="an
   onymous"></script>
@@ -63,18 +63,18 @@
   <!-- REQUIRED SCRIPTS -->
 
   <!-- jQuery -->
-  <script src="plugins/jquery/jquery.min.js"></script>
+  <script src="/plugins/jquery/jquery.min.js"></script>
   <!-- Bootstrap -->
-  <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
   <!-- AdminLTE -->
-  <script src="dist/js/adminlte.js"></script>
+  <script src="/dist/js/adminlte.js"></script>
 
   <!-- OPTIONAL SCRIPTS -->
-  <script src="plugins/chart.js/Chart.min.js"></script>
+  <script src="/plugins/chart.js/Chart.min.js"></script>
   <!-- AdminLTE for demo purposes -->
-  <script src="dist/js/demo.js"></script>
+  <script src="/dist/js/demo.js"></script>
   <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-  <script src="dist/js/pages/dashboard3.js"></script>
+  <script src="/dist/js/pages/dashboard3.js"></script>
 </body>
 
 </html>
