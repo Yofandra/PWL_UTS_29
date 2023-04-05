@@ -23,5 +23,5 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home')->middleware('auth');
 Route::get('/dashboard', [App\Http\Controllers\DashboardController::class, 'dashboard'])->name('dashboard');
-Route::resource('/pegawai', PegawaiController::class);
+Route::resource('pegawai', PegawaiController::class);
 

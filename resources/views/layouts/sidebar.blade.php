@@ -33,7 +33,7 @@
               </a>
             </li>
             <li class="nav-item">
-              <a href="pegawai" class="nav-link">
+              <a href="{{Route('pegawai.index')}}" class="nav-link">
                 <i class="nav-icon far fa-image"></i>
                 <p>
                   Data Pegawai
